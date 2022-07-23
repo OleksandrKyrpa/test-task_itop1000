@@ -1,0 +1,19 @@
+.header {
+    align-self: flex-end;
+    margin: 30px 30px 50px auto;
+}
+
+.table,
+.table th,
+.table td {
+    border: 1px solid black;
+}
+
+.table th,
+.table td {
+    padding: 5px 10px;
+}
+
+.table {
+    border-collapse: collapse;
+}
